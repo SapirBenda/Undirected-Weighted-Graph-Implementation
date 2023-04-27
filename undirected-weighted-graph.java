@@ -1,8 +1,5 @@
 import java.util.*;
 
-// sapirb3 -  Sapir Ben David 316224104
-// urin - Uri Nissenkorn 207381948
-
 
 public class Graph {
 	/**
